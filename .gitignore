@@ -1,0 +1,8 @@
+build/
+cnf/
+sol/
+
+graphinstances/*.col
+
+color2sat
+k-colorability
